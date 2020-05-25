@@ -43,18 +43,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Profesional en Computación con más de 30 años de experiencia en las áreas de Análisis, 
+      Diseño, Desarrollo y Soporte de aplicaciones tanto en Plataforma Mainframe como en 
+      Plataforma Media, así como en la gestión de Proyectos en todo su ciclo de vida. 
+      En Gerencia de Sistemas amplia experticia en sistemas multiplataforma y en su integración 
+      con aplicaciones Legacy con permanente actualización sobre las nuevas tecnologías de 
+      Desarrollo. Gran capacidad para el diseño de las arquitecturas para la integración de 
+      sistemas así como para la resolución de problemas.
 
-      Second paragraph if required.
+      Gran capacidad analítica
+      Excelente en la resolución de problemas
+      Experiencia en gestión de equipos
+      Visión integral de los Sistemas
+      Actualización permanente
+      Gran capacidad de adaptación
+      Experto en el diseño de Arquitecturas Transaccionales
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Licenciado en Computación
+      university: Universidad Central de Venezuela
+      time: 1980 - 1986
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
