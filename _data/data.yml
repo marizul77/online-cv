@@ -19,18 +19,18 @@ sidebar:
     github: psrod
     gitlab:
     bitbucket:
-    twitter: '@wpsrod2002'
+    twitter: 'https://twitter.com/PedroRo04069426'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idiom: English
-        level: Profesional
+      - idioma: English
+        nivel: Profesional
       
-      - idiom: Spanish
-        level: Nativo
+      - idioma: Español
+        nivel: Nativo
         
-    interests:
+    intereses:
       - item: Tecnología
         link:
 
@@ -41,7 +41,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profesional
     summary: |
       Profesional en Computación con más de 30 años de experiencia en las áreas de Análisis, 
       Diseño, Desarrollo y Soporte de aplicaciones tanto en Plataforma Mainframe como en 
@@ -72,41 +72,25 @@ education:
 
           - Bullet point
           - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
+    
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Gerente de Sistemas
+      time: 2012 - Present
+      company: Banco de Venezuela, Caracas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Profesional en Computación con más de 30 años de experiencia en las áreas de Análisis, Diseño, 
+        Desarrollo y Soporte de aplicaciones tanto en Plataforma Mainframe como en Plataforma Media, 
+        así como en la gestión de Proyectos en todo su ciclo de vida. En Gerencia de Sistemas amplia 
+        experticia en sistemas multiplataforma y en su integración con aplicaciones Legacy con 
+        permanente actualización sobre las nuevas tecnologías de Desarrollo. Gran capacidad para el 
+        diseño de las arquitecturas para la integración de sistemas así como para la resolución de problemas.
 
           - Bullet point
           - Bullet point 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Especialista de Teconología Senior
+      time: 2008 - 2012
+      company: Banco de Venezuela, Caracas
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -117,9 +101,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Consultor de Sistemas
+      time: 2004 - 2008
+      company: Banco de Venezuela, Caracas
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
