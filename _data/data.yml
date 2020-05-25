@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -19,16 +19,16 @@ sidebar:
     github: psrod
     gitlab:
     bitbucket:
-    twitter: 'https://twitter.com/PedroRo04069426'
+    twitter: '/PedroRo04069426'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
-      - idioma: English
-        nivel: Profesional
+      - idiom: English
+        level: Profesional
       
-      - idioma: Español
-        nivel: Nativo
+      - idiom: Español
+        level: Nativo
         
     intereses:
       - item: Tecnología
@@ -52,13 +52,13 @@ career-profile:
       Desarrollo. Gran capacidad para el diseño de las arquitecturas para la integración de 
       sistemas así como para la resolución de problemas.
 
-      Gran capacidad analítica
-      Excelente en la resolución de problemas
-      Experiencia en gestión de equipos
-      Visión integral de los Sistemas
-      Actualización permanente
-      Gran capacidad de adaptación
-      Experto en el diseño de Arquitecturas Transaccionales
+      Gran capacidad analítica.
+      Excelente en la resolución de problemas.
+      Experiencia en gestión de equipos.
+      Visión integral de los Sistemas.
+      Actualización permanente.
+      Gran capacidad de adaptación.
+      Experto en el diseño de Arquitecturas Transaccionales.
 
 education:
     - degree: Licenciado en Computación
@@ -167,23 +167,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Gerencia de Sistemas
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Supervisión de Personal
         level: 98%
 
-      - name: Angular
+      - name: Cobol - Cics - DB2 
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Capacidad de Resolución de Problemas
+        level: 99%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Visión Integral de Sistemas
+        level: 99%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
