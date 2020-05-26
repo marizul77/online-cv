@@ -3,49 +3,46 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Pedro Rodríguez
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: IMG_20200525_195744.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: psrod2002@gmail.com
+    phone: -0584249010857
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: psrod2002
+    github: psrod
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@PedroRo04069426'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Español
+        level: Nativo
 
-      - idiom: French
+      - idiom: Inglés
         level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
+      
     interests:
-      - item: Climbing
+      - item: Tecnología
         link:
 
-      - item: Snowboarding
+      - item: Fotografía
         link:
 
-      - item: Cooking
+      - item: Literatura
         link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profesional
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -54,9 +51,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Licenciado en Computación
+      university: Universidad Central de Venezuela
+      time: 1980 - 1986
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,21 +62,11 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Gerente de Sistemas
+      time: 2012 - Presente
+      company: Banco de Venezuela, Caracas
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,9 +79,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Especialista de Sistemas Senior
+      time: 2008 - 2012
+      company: Banco de Venezuela, Caracas
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -103,9 +90,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Consultor de Sistemas
+      time: 2004 - 2008
+      company: Banco de Venezuela, Caracas
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -167,23 +154,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Gerencia de Sistemas
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Supervisión de Personal
         level: 98%
 
-      - name: Angular
+      - name: Arquitectura de Sistemas
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Visión Integral de Sistemas
+        level: 99%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Capacidad de resolución de problemas
+        level: 99%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Cobol - Cics - DB2 - MQ-Series
+        level: 99%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
