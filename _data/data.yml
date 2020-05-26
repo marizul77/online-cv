@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: psrod2002@gmail.com
     phone: -0584249010857
-    website: psrod.github.io/portafolio-angular/ #do not add http://
+    website: psrod.github.io/portafolio/ #do not add http://
     linkedin: psrod2002
     github: psrod
     gitlab:
@@ -49,7 +49,7 @@ career-profile:
       de Proyectos en todo su ciclo de vida. En Gerencia de Sistemas amplia experticia en sistemas 
       multiplataforma y en su integración con aplicaciones Legacy con permanente actualización sobre las nuevas 
       tecnologías de Desarrollo. Gran capacidad para el diseño de las arquitecturas para la integración de 
-      sistemas así como para la resolución de problemas. You can [download this free resume/CV template here]().
+      sistemas así como para la resolución de problemas.
       
 education:
     - degree: Licenciado en Computación
