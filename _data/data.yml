@@ -29,7 +29,7 @@ sidebar:
         level: Nativo
 
       - idiom: Inglés
-        level: Professional
+        level: Profesional
       
     interests:
       - item: Tecnología
@@ -44,12 +44,13 @@ sidebar:
 career-profile:
     title: Perfil Profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Profesional en Computación con más de 30 años de experiencia en las áreas de Análisis, Diseño, Desarrollo 
+      y Soporte de aplicaciones tanto en Plataforma Mainframe como en Plataforma Media, así como en la gestión 
+      de Proyectos en todo su ciclo de vida. En Gerencia de Sistemas amplia experticia en sistemas 
+      multiplataforma y en su integración con aplicaciones Legacy con permanente actualización sobre las nuevas 
+      tecnologías de Desarrollo. Gran capacidad para el diseño de las arquitecturas para la integración de 
+      sistemas así como para la resolución de problemas. You can [download this free resume/CV template here]().
+      
 education:
     - degree: Licenciado en Computación
       university: Universidad Central de Venezuela
@@ -68,39 +69,51 @@ experiences:
       time: 2012 - Presente
       company: Banco de Venezuela, Caracas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Planificar, administrar y dirigir las áreas técnicas relacionadas  con el análisis, diseño, 
+        desarrollo y mantenimiento de los Sistemas Antifraude y de Prevención de Legitimación de 
+        Capitales  implementados por la Institución, garantizando el alcance de sus objetivos en 
+        dichas áreas, de acuerdo a las regulaciones de la SUDEBAN y la normativa legal vigente.
+        
+          - Implementación de los módulos antifraude de Monitor Plus y su integración 
+            al Core Bancario de la Institución, mediante el desarrollo de interfaces 
+            bidireccionales para  la prevención del fraude  y la toma de acciones en 
+            tiempo real.
+          - Reingeniería del servicio de identificación del cliente con el fín de 
+            optimizar su desempeño y hacerlo 100% parametrizable,además de efectuar
+            su integración con las herramientas de atención telefónica automatizadas.
+            
     - role: Especialista de Sistemas Senior
       time: 2008 - 2012
       company: Banco de Venezuela, Caracas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Coordinación del grupo de Continuidad Operativa de la Gerencia de Sistemas Antifraude con 
+        responsabilidad  sobre aplicaciones relativas a: Motor Antifraude, Verificación Positiva, 
+        Pesquisas y Criptografía.
+        
+          - Coordinación del equipo de desarrollo para la implementación del motor 
+            antifraude Lynx y de sus interfaces con el Core Bancario y  con las 
+            aplicaciones de gestión de reclamos. Utilizando para ello herramientas 
+            y/o tecnologías tales como: MQ Series,  Java, Cobol, Cobol Cics, Jcl, 
+            DB2, Altair, Changeman, Control-M, Unix. La implementación del motor 
+            permitía la prevención y la toma de acciones sobre las operaciones 
+            en tiempo real.
+            
     - role: Consultor de Sistemas
       time: 2004 - 2008
       company: Banco de Venezuela, Caracas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Desarrollo de páginas WEB y Dll´s en Visual Basic para Portal Web del banco. 
+        Desarrollo de aplicaciones Cobol Cics.
+        Mantenimiento de aplicaciones de validación criptográfica.
+        Análisis, desarrollo y mantenimiento de Sistemas Bancarios en plataforma ALTAIR.
+
+          - Desarrollo de Listener (C++) para atender vía Socket, requerimientos 
+            de validación criptográfica provenientes del Sistema Integrado de 
+            Autorizaciones (SIA) para luego enrutarlo, tambien vía Socket, hacia  
+            aplicación en Mainframe.
+          - Desarrollo de Listener Cobol Cics, para atender (vía Cics Socket), 
+            requerimientos de validación criptográfica provenientes del Sistema 
+            Integrado de Autorizaciones (SIA).
 projects:
     title: Proyectos
     intro: >
