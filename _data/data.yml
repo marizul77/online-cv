@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Pedro Rodríguez
-    tagline: Full Stack Developer
+    tagline: Consultor de Sistemas Mainframe
     avatar: IMG_20200525_195744.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: psrod2002@gmail.com
     phone: -0584249010857
-    website: blog.webjeda.com #do not add http://
+    website: psrod.github.io/portafolio-angular/ #do not add http://
     linkedin: psrod2002
     github: psrod
     gitlab:
@@ -102,7 +102,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -151,7 +151,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Destrezas &amp; Habilidades
 
     toolset:
       - name: Gerencia de Sistemas
